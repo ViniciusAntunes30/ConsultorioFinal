@@ -1,0 +1,22 @@
+patients = pacientes
+doctors = psicologos
+appointments = sessao
+schedule = Anamnese
+
+
+add-appointment =adicionar sessao
+add- doctor = adicionar psicologo
+add-patient =  adicionar paciente
+add-schedule =adcionar anamnese
+
+
+edit-appointment = editar sessao
+edit-doctor= editar psicologo
+edit-patient = editar pacientes
+edit-schedule = editar anamnese
+
+profile =  perfil da conta admin
+edit-profile =edição do perfil da conta admin
+
+register = registro de novo login
+forgot-password = redefinir senha
